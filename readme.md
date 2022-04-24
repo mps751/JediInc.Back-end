@@ -1,5 +1,5 @@
-**- Back-end:** Python | Django Framework
-**- Front-end:** Angular
-**- Persistência:**
+**- Back-end:** Python | Django Framework <p>
+**- Front-end:** Angular <p>
+**- Persistência:** <p>
 
 Requisitos:
