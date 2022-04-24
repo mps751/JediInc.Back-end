@@ -3,5 +3,6 @@
 **⦁ Persistência:** <p>
 
 **Requisitos:** <p>
-  ⦁ Python 3.10.4 + <p>
-  ⦁ Django 4.0.3 +
+    ⦁ Python 3.10.4 + <p>
+    ⦁ Django 4.0.3 + <p>
+    ⦁ Angular 13.3.3 +
